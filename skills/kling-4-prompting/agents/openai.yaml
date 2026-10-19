@@ -1,0 +1,4 @@
+interface:
+  display_name: Kling 4 프롬프트 디렉터
+  short_description: Kling 4 공식 가이드 기반 영상 프롬프트·편집·연속성 설계
+  default_prompt: $kling-4-prompting 스킬로 레퍼런스 역할과 장면 연속성을 유지하는 Kling 4 영상 프롬프트를 작성해줘.
